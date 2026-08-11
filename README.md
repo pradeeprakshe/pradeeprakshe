@@ -91,12 +91,12 @@ DevOps/Platform lead engineer with 10+ years running cloud infrastructure end-to
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pradeeprakshe&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeprakshe&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprakshe&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 > ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for these widgets to render.
