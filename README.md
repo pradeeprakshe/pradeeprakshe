@@ -99,7 +99,6 @@ DevOps/Platform lead engineer with 10+ years running cloud infrastructure end-to
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprakshe&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for these widgets to render.
 
 ---
 
