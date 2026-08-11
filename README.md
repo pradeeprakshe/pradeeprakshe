@@ -68,7 +68,7 @@ DevOps/Platform lead engineer with 10+ years running cloud infrastructure end-to
 - Replaced manual provisioning with Terraform/CloudFormation — environment setup from 4 hours to 20 minutes
 - Ran container orchestration (Kubernetes, ECS) for 100+ microservices
 
-*Earlier roles: Infrasoft Technologies, CSS Corp, Siddhivinayak Enterprises — full history on [LinkedIn](#).*
+*Earlier roles: Infrasoft Technologies, CSS Corp, Siddhivinayak Enterprises — full history on [LinkedIn](https://www.linkedin.com/in/pradeep-rakshe-782488b6/).*
 
 ---
 
@@ -92,20 +92,19 @@ DevOps/Platform lead engineer with 10+ years running cloud infrastructure end-to
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeprakshe&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprakshe&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for these widgets to render.
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://linkedin.com/in/pradeep-rakshe-782488b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-rakshe-782488b6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradiprakshe2@gmail.com)
 
 ---
