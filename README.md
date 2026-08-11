@@ -104,7 +104,7 @@ DevOps/Platform lead engineer with 10+ years running cloud infrastructure end-to
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ADD_YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-rakshe-782488b6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradiprakshe2@gmail.com)
 
 ---
